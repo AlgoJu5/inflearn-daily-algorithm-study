@@ -40,7 +40,7 @@
 |[1541. 잃어버린 괄호](https://www.acmicpc.net/problem/1541)|[Python🐳](./week02-210627-210703/hyelimchoi1223/%5B%EB%B0%B1%EC%A4%80%5D1541/solved.py)|
 |[1697. 숨바꼭질](https://www.acmicpc.net/problem/1697)|[C++🐽](./week02-210627-210703/yarncha/baekjoon/1697.cpp), [C++😀](./week02-210627-210703/pkpete/1697.cpp), [Java😎](./week03-210704-210710/gunny6026/src/baekjoon/숨바꼭질_1697.java)|
 |[1707. 이분 그래프](https://www.acmicpc.net/problem/1707)|[C++🐽](./week01-210619-210625/yarncha/baekjoon/1707.cpp)|
-|[1712. 손익분기점](https://www.acmicpc.net/problem/1712)|[Java👽](./moregorenine/baekjoon/step8_basic_math/q1_1712/Main.java)|
+|[1712. 손익분기점](https://www.acmicpc.net/problem/1712)|[Java👽](./moregorenine/baekjoon/step8_basic_math/q1_1712/Main.java), [JavaScript👽](./moregorenine/baekjoon/step8_basic_math/q1_1712/main.js)|
 |[1744. 수 묶기](https://www.acmicpc.net/problem/1744)|[Python🐳](./week02-210627-210703/hyelimchoi1223/%5B%EB%B0%B1%EC%A4%80%5D1744/solved.py)|
 |[1929. 소수 구하기](https://www.acmicpc.net/problem/1929)|[Java😎](./week02-210627-210703/gunny6026/baekjoon/%EC%86%8C%EC%88%98%EA%B5%AC%ED%95%98%EA%B8%B0_1929.java)|
 |[1931. 회의실 배정](https://www.acmicpc.net/problem/1931)|[Python🐳](./week03-210704-210710/hyelimchoi1223/%5B%EB%B0%B1%EC%A4%80%5D1931/solved.py)|
@@ -71,17 +71,17 @@
 |[8393. 합](https://www.acmicpc.net/problem/8393)|[Java🏋🏽‍♂️](./week01-210619-210625/kyungtak/%5B백준%5D%20단계별로%20풀어보기/Level%203/bj_08393.java), [Java👽](./week02-210627-210703/moregorenine/baekjoon/step3_for/q3_8393/Main.java), [JavaScript👽](./week02-210627-210703/moregorenine/baekjoon/step3_for/q3_8393/main.js), [Python👽](./week02-210627-210703/moregorenine/baekjoon/step3_for/q3_8393/main.py)|
 |[9093. 단어 뒤집기](https://www.acmicpc.net/problem/9093)|[Java😎](./week01-210619-210625/gunny6026/src/baekjoon/Main_9093.java)|
 |[9498. 시험 성적](https://www.acmicpc.net/problem/9498)|[Java👽](./week01-210619-210625/moregorenine/baekjoon/step2_if/q2_9498_test_score/Main.java), [JavaScript👽](./week01-210619-210625/moregorenine/baekjoon/step2_if/q2_9498_test_score/main.js), [Python👽](./week01-210619-210625/moregorenine/baekjoon/step2_if/q2_9498_test_score/main.py)|
-|[10162. 전자레인지](https://www.acmicpc.net/problem/10162)|[Python🐳](./week01-210619-210625/hyelimchoi1223/%5B백준%5D10162/solved.py)
-|[10430. 나머지](https://www.acmicpc.net/problem/10430)|[Java🏋🏽‍♂️](./week01-210619-210625/kyungtak/%5B%EB%B0%B1%EC%A4%80%5D%20%EB%8B%A8%EA%B3%84%EB%B3%84%EB%A1%9C%20%ED%92%80%EC%96%B4%EB%B3%B4%EA%B8%B0/Level%201/bj_10430.java)
-|[10718. We love kriii](https://www.acmicpc.net/problem/10718)|[Java🏋🏽‍♂️](./week01-210619-210625/kyungtak/%5B%EB%B0%B1%EC%A4%80%5D%20%EB%8B%A8%EA%B3%84%EB%B3%84%EB%A1%9C%20%ED%92%80%EC%96%B4%EB%B3%B4%EA%B8%B0/Level%201/bj_10718.java)
-|[10773. 제로](https://www.acmicpc.net/problem/10773)|[Java😎](./week01-210619-210625/gunny6026/src/baekjoon/Main_10773.java)
+|[10162. 전자레인지](https://www.acmicpc.net/problem/10162)|[Python🐳](./week01-210619-210625/hyelimchoi1223/%5B백준%5D10162/solved.py)|
+|[10430. 나머지](https://www.acmicpc.net/problem/10430)|[Java🏋🏽‍♂️](./week01-210619-210625/kyungtak/%5B%EB%B0%B1%EC%A4%80%5D%20%EB%8B%A8%EA%B3%84%EB%B3%84%EB%A1%9C%20%ED%92%80%EC%96%B4%EB%B3%B4%EA%B8%B0/Level%201/bj_10430.java)|
+|[10718. We love kriii](https://www.acmicpc.net/problem/10718)|[Java🏋🏽‍♂️](./week01-210619-210625/kyungtak/%5B%EB%B0%B1%EC%A4%80%5D%20%EB%8B%A8%EA%B3%84%EB%B3%84%EB%A1%9C%20%ED%92%80%EC%96%B4%EB%B3%B4%EA%B8%B0/Level%201/bj_10718.java)|
+|[10773. 제로](https://www.acmicpc.net/problem/10773)|[Java😎](./week01-210619-210625/gunny6026/src/baekjoon/Main_10773.java)|
 |[10814. 나이순 정렬](https://www.acmicpc.net/problem/10814)|[Java😎](./week02-210627-210703/gunny6026/baekjoon/%EB%82%98%EC%9D%B4%EC%88%9C%EC%A0%95%EB%A0%AC_10814.java)|
 |[10818. 최소, 최대](https://www.acmicpc.net/problem/10818)|[Java👽](./week03-210704-210710/moregorenine/baekjoon/step5_array/q1_10818/Main.java), [JavaScript👽](./week03-210704-210710/moregorenine/baekjoon/step5_array/q1_10818/main.js), [Python👽](./week03-210704-210710/moregorenine/baekjoon/step5_array/q1_10818/main.py)|
-|[10845. 큐](https://www.acmicpc.net/problem/10845)|[Java😎](./week02-210627-210703/gunny6026/baekjoon/큐_10845.java)
+|[10845. 큐](https://www.acmicpc.net/problem/10845)|[Java😎](./week02-210627-210703/gunny6026/baekjoon/큐_10845.java)|
 |[10950. A+B - 3](https://www.acmicpc.net/problem/10950)|[Java👽](./week02-210627-210703/moregorenine/baekjoon/step3_for/q2_10950/Main.java), [JavaScript👽](./week02-210627-210703/moregorenine/baekjoon/step3_for/q2_10950/main.js), [Python👽](./week02-210627-210703/moregorenine/baekjoon/step3_for/q2_10950/main.py)|
 |[11047. 동전 0](https://www.acmicpc.net/problem/11047)|[Python🐳](./week01-210619-210625/hyelimchoi1223/%5B%EB%B0%B1%EC%A4%80%5D11047/solved.py), [C++😀](./week01-210619-210625/pkpete/11047.cpp)|
 |[11399. ATM](https://www.acmicpc.net/problem/11399)|[Python🐳](./week01-210619-210625/hyelimchoi1223/%5B%EB%B0%B1%EC%A4%80%5D11399/solved.py), [C++😀](./week01-210619-210625/pkpete/11047.cpp)|
-|[11508. 2+1 세일](https://www.acmicpc.net/problem/11508)|[Python🐳](./week02-210627-210703/hyelimchoi1223/%5B%EB%B0%B1%EC%A4%80%5D11508/solved.py)
+|[11508. 2+1 세일](https://www.acmicpc.net/problem/11508)|[Python🐳](./week02-210627-210703/hyelimchoi1223/%5B%EB%B0%B1%EC%A4%80%5D11508/solved.py)|
 |[11650. 좌표 정렬하기](https://www.acmicpc.net/problem/11650)|[Java😎](./week03-210704-210710/gunny6026/src/baekjoon/%EC%A2%8C%ED%91%9C%EC%A0%95%EB%A0%AC%ED%95%98%EA%B8%B0.java)|
 |[11729. 하노이 탑 이동 순서](https://www.acmicpc.net/problem/11729)|[C++🐽](./yarncha/baekjoon/11729.cpp)|
 |[13549. 숨바꼭질 3](https://www.acmicpc.net/problem/13549)|[C++🐽](./week03-210704-210710/yarncha/baekjoon/13549.cpp)|
@@ -94,14 +94,14 @@
 |[15683. 감시](https://www.acmicpc.net/problem/15683)|[C++😀](./week02-210627-210703/pkpete/15683.cpp)|
 |[15953. 상금 헌터](https://www.acmicpc.net/problem/15953)|[Java😎](./week01-210619-210625/gunny6026/src/baekjoon/%EC%83%81%EA%B8%88_%ED%97%8C%ED%84%B0_15953.java)|
 |[16234. 인구 이동](https://www.acmicpc.net/problem/16234)|[C++😀](./week02-210627-210703/pkpete/16234.cpp)|
-|[16435. 스네이크버드](https://www.acmicpc.net/problem/16435)|[Python🐳](./week02-210627-210703/hyelimchoi1223/%5B%EB%B0%B1%EC%A4%80%5D16435/solved.py)
+|[16435. 스네이크버드](https://www.acmicpc.net/problem/16435)|[Python🐳](./week02-210627-210703/hyelimchoi1223/%5B%EB%B0%B1%EC%A4%80%5D16435/solved.py)|
 |[16917. 양념 반 후라이드 반](https://www.acmicpc.net/problem/16917)|[C++😀](./week02-210627-210703/pkpete/16917.cpp)|
 |[16922. 로마 숫자 만들기](https://www.acmicpc.net/problem/16922)|[C++😀](./week02-210627-210703/pkpete/16922.cpp)|
 |[16940. BFS 스페셜 저지](https://www.acmicpc.net/problem/16940)|[C++🐽](./week02-210627-210703/yarncha/baekjoon/16940.cpp)|
 |[16947. 서울 지하철 2호선](https://www.acmicpc.net/problem/16947)|[C++🐽](./week01-210619-210625/yarncha/baekjoon/16947.cpp)|
 |[16968. 차량 번호판 1](https://www.acmicpc.net/problem/16968)|[C++😀](./week02-210627-210703/pkpete/16968.cpp)|
 |[17298. 오큰수](https://www.acmicpc.net/problem/17298)|[Java😎](./week01-210619-210625/gunny6026/src/baekjoon/Main_17298.java)|
-|[20044. Project Teams](https://www.acmicpc.net/problem/20044)|[Python🐳](./week02-210627-210703/hyelimchoi1223/%5B백준%5D20049/solved.py)
+|[20044. Project Teams](https://www.acmicpc.net/problem/20044)|[Python🐳](./week02-210627-210703/hyelimchoi1223/%5B백준%5D20049/solved.py)|
 
 </div>
 </details>
